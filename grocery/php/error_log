@@ -1,0 +1,9 @@
+[24-Oct-2017 16:34:58 UTC] PHP Fatal error:  Call to undefined function delete() in /home/dibukhan/public_html/grocery/php/main.php on line 104
+[24-Oct-2017 16:35:15 UTC] PHP Fatal error:  Call to undefined function delete() in /home/dibukhan/public_html/grocery/php/main.php on line 104
+[24-Oct-2017 16:35:23 UTC] PHP Fatal error:  Call to undefined function delete() in /home/dibukhan/public_html/grocery/php/main.php on line 104
+[24-Oct-2017 16:42:03 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dibukhan/public_html/grocery/php/main.php:104) in /home/dibukhan/public_html/grocery/php/main.php on line 107
+[24-Oct-2017 16:42:11 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dibukhan/public_html/grocery/php/main.php:104) in /home/dibukhan/public_html/grocery/php/main.php on line 107
+[24-Oct-2017 16:42:15 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dibukhan/public_html/grocery/php/main.php:104) in /home/dibukhan/public_html/grocery/php/main.php on line 107
+[24-Oct-2017 16:42:43 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dibukhan/public_html/grocery/php/main.php:104) in /home/dibukhan/public_html/grocery/php/main.php on line 107
+[24-Oct-2017 16:43:43 UTC] PHP Fatal error:  Call to undefined function delete() in /home/dibukhan/public_html/grocery/php/main.php on line 105
+[24-Oct-2017 16:50:23 UTC] PHP Fatal error:  Call to undefined function delete() in /home/dibukhan/public_html/grocery/php/main.php on line 104
